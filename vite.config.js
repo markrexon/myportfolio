@@ -8,6 +8,6 @@ export default defineConfig({
         tailwindcss(), 
 
   ],
-    base: "https://github.com/markrexon/myportfolio",
+    // base: "https://github.com/markrexon/myportfolio",
  
 })

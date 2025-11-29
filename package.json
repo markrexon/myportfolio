@@ -1,7 +1,7 @@
 {
   "name": "form1",
   "private": true,
-  "homepage": "https://markrexon.github.io/myportfolio",
+  "homepage": "/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
